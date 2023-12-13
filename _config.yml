@@ -12,9 +12,9 @@ title                    : "Catherine Brockway, PhD"
 title_separator          : "-"
 name                     : &name "Catherine Brockway"
 description              : &description "Non-profit consultant specializing in data strategy, systems thinking, and language equity."
-url                      : https://brockway.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://geoling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "geoling/brockway.github.io"
+repository               : "geoling.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
