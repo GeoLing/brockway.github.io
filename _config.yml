@@ -86,9 +86,9 @@ author:
   bio              : "Nonprofit Strategy Consultant"
   location         : "Georgetown, Texas"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : #""
+  googlescholar    : #""
+  email            : "catherine.lee.brockway@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -317,17 +317,19 @@ compress_html:
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+# Color Palette: Gray #736B6D, Dark Gray #0C0B10, Blue #253244, Light Gray #CCCEC1, Yellow #D49A05
+
+navbar-col: "#CCCEC1"
+navbar-text-col: "#0C0B10"
+navbar-border-col: "#253244"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+link-col: "#253244"
+hover-col: "#D49A05"
+footer-col: "#CCCEC1"
+footer-text-col: "#0C0B10"
+footer-link-col: "#253244"
+footer-hover-col: "#D49A05"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
