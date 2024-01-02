@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : jekyll-theme-minimal
 title                    : "Catherine Brockway, PhD"
 title_separator          : "-"
 name                     : &name "Catherine Brockway"
@@ -49,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+theme                    : jekyll-theme-minimal
 
 # SEO Related
 google_site_verification :
