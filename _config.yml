@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : jekyll-theme-mediator
+theme                    : jekyll-theme-minimal
 title                    : "Catherine Brockway, PhD"
 title_separator          : "-"
 name                     : &name "Catherine Brockway"
