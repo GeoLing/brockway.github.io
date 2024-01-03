@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Geography, Texas Tech University, 2009
+* M.A. in English, Texas Tech University, 2012
+* Ph.D in Linguistics, University of Hawaiʻi at Mānoa, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Senior Sustainability Analyst
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
