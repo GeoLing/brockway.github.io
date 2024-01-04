@@ -15,26 +15,35 @@ Education
 * M.A. in English, Texas Tech University, 2012
 * Ph.D in Linguistics, University of Hawaiʻi at Mānoa, 2021
 
-Work experience
+Recent experience
 ======
-* Senior Sustainability Analyst
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Sustainability Analyst: Sept 2022-Current
+  * UN CIFAL Honolulu; Chaminade University of Honolulu
+  * Course developer and instructor for UNITAR courses: "GIS for Sustainability and Resilience in the Pacific"
+  * Lead and learning coach for Data Skills programs for social sector partners: capacity building and data strategy for data-driven decision-making.
+  * Researching and advocating for language equity in data science and sustainability
+  * Systems change lead for NSF ALL-SPICE Alliance programs. 
+  * Data science coach for Faculty-in-Residence program: faculty in Environmental Science, Biology, and Criminal Justice.
+  * Data Science faculty for SPICE Summer Program: month-long data science intensive bootcamp for undergraduate students.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Strategy Consultant: Apr 2022-Sept 2022
+  * Kamehameha Schools
+  * I used my systems thinking and coaching skills to support future readiness for the entire enterprise, which is both a Native Hawaiian land trust and a pre-K-12 educational system.
+  * Curating information and data for executive-level discussions and speaking events. 
+  * Design thinking, scenario-building, and strategic planning facilitation.
+  * Redesigning an org-wide futures newsletter.
   
-Skills
+Skills & Domain Expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Strategy
+* Language Equity
+* Quantitative and Qualitative Data Analysis
+* Facilitation
+* Editing
+* Research
+* Nonprofit Strategy
+* Systems Thinking
+* Design Thinking
 
 Publications
 ======
