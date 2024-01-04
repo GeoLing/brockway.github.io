@@ -82,12 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Contact & Links"
-  avatar           : ""
+  avatar           : "Catherine Brockway"
   bio              : "Nonprofit Strategy Consultant"
   location         : "Georgetown, Texas"
   employer         :
-  pubmed           : #""
-  googlescholar    : #""
+  pubmed           : # ""
+  googlescholar    : # ""
   email            : "catherine.lee.brockway@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/catherine-brockway/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-0427-7262"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
