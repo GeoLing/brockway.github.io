@@ -81,8 +81,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact & Links"
-  avatar           : "Catherine Brockway"
+  name             : "Catherine Brockway"
+  avatar           : 
   bio              : "Nonprofit Strategy Consultant"
   location         : "Georgetown, Texas"
   employer         :
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cal              : "https://cal.com/catherinebrockway"
 
 
 # Reading Files
