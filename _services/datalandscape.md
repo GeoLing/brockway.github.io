@@ -1,6 +1,6 @@
 ---
 title: "Mapping Your Data Landscape"
-collection: teaching
+collection: services
 type: "Data Strategy"
 permalink: /services/datalandscape
 ---
