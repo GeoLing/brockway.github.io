@@ -11,6 +11,7 @@ What I provide
 ======
 
 -Facilitation of process and discussions
+
 -Summary of findings with strategic recommendations
 
 What you provide
