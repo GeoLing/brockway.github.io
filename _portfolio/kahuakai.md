@@ -1,6 +1,6 @@
 ---
 title: "Ka Huakaʻi 2021"
-excerpt: "Ka Huaka‘i: Native Hawaiian Educational Assessment<br/><img src='/images/500x300.png'>"
+excerpt: "Ka Huaka‘i: Native Hawaiian Educational Assessment<br/><img src='/images/kahuakai_cover.png'>"
 collection: portfolio
 ---
 
