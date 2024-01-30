@@ -2,7 +2,7 @@
 title: "Systems Change for the NSF ALL-SPICE Alliance"
 collection: talks
 type: "tutorial"
-permalink: /talks/2023-09-06-NSF_systems_change
+permalink: /talks/2023-09-06-NSF-systems-change
 venue: "NSF ALL-SPICE Alliance Annual Meeting"
 date: 2023-09-06
 location: "Honolulu, HI"
