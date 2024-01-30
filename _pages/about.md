@@ -32,4 +32,6 @@ Growing up, I thought I would be a professor like my parents, but then I discove
 
 For more info
 ------
-This site includes more information about my services, my experience, and past projects. Please contact me for a free consultation if you are interested in working with me. I look forward to hearing from you!
+This site includes more information about my services, my experience, and past projects. Please contact me for a free consultation if you are interested in working with me. I look forward to hearing from you!  
+
+Snag a spot on my calendar [here](https://cal.com/catherinebrockway).
