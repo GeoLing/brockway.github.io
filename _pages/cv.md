@@ -17,7 +17,7 @@ Education
 
 Recent experience
 ======
-Senior Sustainability Analyst: Sept 2022-Current
+Senior Sustainability Analyst: Sept 2022-Current  
 **[UN CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); Chaminade University of Honolulu**
   * Course developer and instructor for UNITAR courses: "GIS for Sustainability and Resilience in the Pacific"
   * Lead and learning coach for Data Skills programs for social sector partners: capacity building and data strategy for data-driven decision-making.
@@ -26,7 +26,7 @@ Senior Sustainability Analyst: Sept 2022-Current
   * Data science coach for Faculty-in-Residence program: faculty in Environmental Science, Biology, and Criminal Justice.
   * Data Science faculty for SPICE Summer Program: month-long data science intensive bootcamp for undergraduate students.
 
-Strategy Consultant: Apr 2022-Sept 2022
+Strategy Consultant: Apr 2022-Sept 2022  
 **[Kamehameha Schools](https://www.ksbe.edu/)**
   * I used my systems thinking and coaching skills to support future readiness for the entire enterprise, which is both a Native Hawaiian land trust and a pre-K-12 educational system.
   * Curating information and data for executive-level discussions and speaking events. 
