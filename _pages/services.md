@@ -25,15 +25,17 @@ Language equity and multilingual contexts
 
 Mapping your data landscape
 
-Strategic planning for data
+Strategic planning
 
-Survey design
+Data storytelling support
 
 Increasing engagement and access for non-native English speakers
 
 Data coaching for current staff
 
 Ensuring clear communication with data vendors and contractors
+
+Survey design
 
 # Pricing
 
