@@ -2,7 +2,7 @@
 title: "Strategic Data Planning"
 collection: teaching
 type: "Data Strategy"
-permalink: /teaching/strategicdataplanning
+permalink: /services/strategicdataplanning
 
 ---
 
