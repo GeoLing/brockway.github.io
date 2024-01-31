@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Catherine Brockway, PhD"
+title: "Catherine Brockway"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
