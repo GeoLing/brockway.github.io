@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Catherine Brockway"
-  avatar           : "images/profile.jpg"
-  bio              : "Nonprofit Strategy Consultant"
+  avatar           : "profile.jpg"
+  bio              : "Non-profit consultant specializing in data strategy, systems thinking, and language equity."
   location         : "Georgetown, Texas"
   employer         :
   pubmed           : # ""
