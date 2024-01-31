@@ -28,7 +28,7 @@ Education
 Recent experience
 ======
 Senior Sustainability Analyst: Sept 2022-Current  
-**[UN CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); Chaminade University of Honolulu**
+**[UN CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); [Chaminade University of Honolulu](https://chaminade.edu/)**
   * Course developer and instructor for UNITAR courses: "GIS for Sustainability and Resilience in the Pacific"
   * Lead and learning coach for Data Skills programs for social sector partners: capacity building and data strategy for data-driven decision-making
   * Researching and advocating for language equity in data science and sustainability
