@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Catherine Brockway, PhD"
+title                    : "Nonprofit Consulting"
 title_separator          : "-"
 name                     : &name "Catherine Brockway"
 description              : &description "Non-profit consultant specializing in data strategy, systems thinking, and language equity."
