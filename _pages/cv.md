@@ -60,11 +60,6 @@ Senior Research Associate: Nov 2018 - Mar 2022
   * Shared findings through reports and presentations to campus-level executive staff
   
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
