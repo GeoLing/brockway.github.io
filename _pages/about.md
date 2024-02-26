@@ -23,9 +23,9 @@ See more on my [Services page](https://geoling.github.io/services/).
 
 A bit about my journey
 ======
-I grew up in Lubbock, Texas, and stayed there for my Bachelor's (Geography) and Master's (English) degrees. My father is a physical geographer and my mother is a cultural geographer, and they instilled in me a love of landscapes and cultures. I fell in love with languages in my junior high French class, and have since studied German, Hungarian, and Hawaiian. 
+I grew up in Lubbock, Texas, and stayed there for my Bachelor's (in geography) and Master's (in English) degrees. My father is a physical geographer and my mother is a cultural geographer, and they instilled in me a love of landscapes and cultures. I fell in love with languages in my junior high French class, and have since studied German, Hungarian, and Hawaiian. I moved to Hawaiʻi in 2013 for a PhD in linguistics and lived there for nine wonderful years. I'm now back in Texas living near family with my wife and our two dogs, Joxer and Xena. 
 
-I'm one of those people who had five different majors and got degrees in three different fields. This has turned into my greatest strength, because I can jump into a new field and learn quickly, and I can see connections between vastly different fields. 
+I'm one of those people who had five different majors and got degrees in three different fields. This has turned into my greatest strength, because I can jump into a new project and learn quickly, and I can see connections between vastly different fields. 
 
 Growing up, I thought I would be a professor like my parents, but then I discovered the wonderful world of nonprofits through my work at Kamehameha Schools. Ever since then, I have learned how to leverage my skills in data, research, and teaching to consult and contract with all kinds of nonprofits. 
 
