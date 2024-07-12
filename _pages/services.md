@@ -23,6 +23,8 @@ Language equity and multilingual contexts
 
 # Primary services
 
+[Evaluation and reporting](https://geoling.github.io/services/strategicdataplanning.md)
+
 [Mapping your data landscape](https://geoling.github.io/services/datalandscape)
 
 [Strategic data planning](https://geoling.github.io/services/strategicdataplanning)
