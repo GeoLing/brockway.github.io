@@ -12,6 +12,7 @@ redirect_from:
 Skills & Domain Expertise
 ======
 * Nonprofit Strategy
+* Systems thinking
 * Strategic Planning
 * Data Strategy
 * Language Equity
@@ -27,12 +28,24 @@ Education
 
 Recent experience
 ======
+
+Strategy Director: April 2024-Current
+**[NSF ALL-SPICE Alliance][https://www.nsfspicealliance.org/]**
+* Build capacity for systems change through training and facilitated conversations
+* Organize and host monthly Laha Seminar Series in Data Justice
+* Develop and implement strategic plans to enhance data science capacity in the Hawai'i-Pacific region
+* Lead and manage cross-functional teams to achieve project milestones and objectives
+* Foster partnerships with educational institutions, government agencies, and non-profits
+* Oversee the design and delivery of data science training programs, workshops, and seminars
+* Monitor and evaluate program outcomes, ensuring continuous improvement and alignment with strategic goals
+* Secure funding and manage budgets for various initiatives
+* Represent the Alliance at conferences, meetings, and public events
+
 Senior Sustainability Analyst: Sept 2022-Current  
 **[UN CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); [Chaminade University of Honolulu](https://chaminade.edu/)**
   * Course developer and instructor for UNITAR courses: "GIS for Sustainability and Resilience in the Pacific"
   * Lead and learning coach for Data Skills programs for social sector partners: capacity building and data strategy for data-driven decision-making
   * Researching and advocating for language equity in data science and sustainability
-  * Systems change lead for [NSF ALL-SPICE Alliance](https://www.nsfspicealliance.org/) programs 
   * Data science coach for Faculty-in-Residence program: faculty in Environmental Science, Biology, and Criminal Justice
   * Data Science faculty for SPICE Summer Program: month-long data science intensive bootcamp for undergraduate students
 
