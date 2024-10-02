@@ -15,7 +15,6 @@ What I do
 
 1. I provide workshops, training, and consulting for strategic planning and systems change. Using a combination of systems, futures, and design thinking, I help organizations prioritize the actions that will truly move the needle towards their visions and fulfill their missions. 
 1. I help nonprofits develop data strategies for decision-making and storytelling. I cover the entire data life cycle, from needs assessments, data collection and analysis, to interpretation and communication. Find the right tools, methods, and people to make data work for your mission and vision. Your organization can save dollars and work hours through the right data strategy!
-1. I provide editing services for non-profits to ensure their storytelling is clear, compelling, and aligned with the expectations of the target audience. My expertise is in writing that involves technical or data-related elements for a non-technical audience. Whether you need help organizing the story, setting the tone, or ensuring that your arguments are fully supported with evidence, you can lean on my 15+ years of experience with writing and editing.
 1. I consult on issues of language equity, using my extensive research and training in this field. If you work with non-native English speaker stakeholders, I will help you ensure that your services and communication is accessible and relevant to everyone you hope to serve or collaborate with.
 
 See more on my [Services page](https://geoling.github.io/services/). 
