@@ -31,6 +31,8 @@ Language equity and multilingual contexts
 
 [Data storytelling support](https://geoling.github.io/services/datastorytelling)
 
+# Additional services
+
 Increasing engagement and access for non-native English speakers
 
 Data coaching for current staff
