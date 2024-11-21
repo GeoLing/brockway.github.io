@@ -7,25 +7,25 @@ permalink: /services/evaluation_reporting
 
 I can support the evaluation and reporting of your project or program for any type of evaluation audience and at any stage of the project. 
 I help to identify stakeholders and their information needs, and determine the appropriate report format(s). What might be useful to one stakeholder may not be useful to another. 
-The report has many purposes and may need to be presented in multiple formats to accomplish its objectives. 
-Reporting formats could include data dashboards, PowerPoint presentations, one-page summaries, or more formal written reports. 
+Reporting has many potential purposes and may need to be presented in multiple formats to accomplish its objectives. 
+Formats could include data dashboards, PowerPoint presentations, one-page summaries, or more formal written reports. 
 My expertise in data visualization is particularly helpful when sharing findings in evaluation reports. 
 
 
 What I provide
 ======
 
--Organization and strategy for evaluation and reporting
+- Organization and strategy for evaluation and reporting
 
--Writing, editing, and data visualization
+- Writing, editing, and data visualization
 
--Clear communication throughout the project
+- Clear communication throughout the project
 
 What you provide
 ======
--Access to project collateral and personnel as needed
+- Access to project collateral and personnel as needed
 
--Communication regarding target audience, program and evaluation goals, and reporting needs and wants
+- Communication regarding target audience, program and evaluation goals, and reporting needs and wants
 
 Key Components
 ======
