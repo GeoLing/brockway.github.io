@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Strategist and data scientist with a strong interdisciplinary background in linguistics, ecology, and geography, using my coaching, communication, and systems thinking skills to help organizations and communities redesign our systems and possible futures. 
+As a strategist, educator, and data scientist with a strong interdisciplinary background in linguistics, ecology, and geography, I use my coaching, communication, and systems thinking skills to help organizations and communities redesign our systems and possible futures. 
 
 What I do
 ======
 
-1. I provide workshops, training, and consulting for strategic planning and systems change. Using a combination of systems, futures, and design thinking, I help organizations prioritize the actions that will truly move the needle towards their visions and fulfill their missions. 
+1. I provide workshops, training, and consulting for strategic planning and systems change. Using a combination of systems, futures, and design thinking, I help organizations prioritize the actions that will truly move the needle towards their visions and fulfill their missions.
+1. I coach organizations in developing effective educational programs in informal (outside of school) settings for all ages. Informal education fills critical gaps in our education system and provides awareness and sustainability for non-profit organizations, and I use my 20+ years of broad experience as an educator to help ensure these programs are impactful and enjoyable.
 1. I help nonprofits develop data strategies for decision-making and storytelling. I cover the entire data life cycle, from needs assessments, data collection and analysis, to interpretation and communication. Find the right tools, methods, and people to make data work for your mission and vision. Your organization can save dollars and work hours through the right data strategy!
 1. I consult on issues of language equity, using my extensive research and training in this field. If you work with non-native English speaker stakeholders, I will help you ensure that your services and communication is accessible and relevant to everyone you hope to serve or collaborate with.
 
