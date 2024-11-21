@@ -6,7 +6,7 @@ permalink: /services/strategicdataplanning
 
 ---
 
-I facilitate the development your data strategy to support your mission and goals, as well as a plan to execute your data strategy. Understanding your data landscape is essential for your organization to make informed decisions, implement effective data strategies, and derive value from your data assets. It involves considering the interconnectedness of various data-related elements to create a coherent and strategic approach to data management and utilization.
+I facilitate the development of your data strategy to support your mission and goals, as well as a plan to execute your data strategy. Understanding your data landscape is essential for your organization to make informed decisions, implement effective data strategies, and derive value from your data assets. It involves considering the interconnectedness of various data-related elements to create a coherent and strategic approach to data management and utilization.
 
 What I provide
 ======
@@ -20,7 +20,7 @@ What I provide
 What you provide
 ======
 
--Access to stakeholders for information-gathering and strategic discussions
+- Access to stakeholders for information-gathering and strategic discussions
 
 Key components
 ======
