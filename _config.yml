@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Catherine Brockway"
-description              : &description "Non-profit consultant specializing in data strategy, systems thinking, and language equity."
+description              : &description "Non-profit consultant specializing in strategy, education, and culture."
 url                      : https://geoling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geoling.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Catherine Brockway"
   avatar           : "profilepic2024.PNG"
-  bio              : "Non-profit consultant specializing in data strategy, systems thinking, and language equity."
+  bio              : "Non-profit consultant specializing in strategy, education, and culture."
   location         : "Georgetown, Texas"
   employer         :
   pubmed           : # ""
