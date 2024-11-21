@@ -15,6 +15,8 @@ Set up an informational call [here](https://cal.com/catherinebrockway).
 
 Strategic planning through a systems thinking lens
 
+Educational program design for informal learning with all ages
+
 Data for decision-making and storytelling
 
 Language equity and multilingual contexts
@@ -22,6 +24,8 @@ Language equity and multilingual contexts
 # Primary services
 
 [Systems thinking for systems change](https://geoling.github.io/services/systemsthinking)
+
+[Educational program design](https://geoling.github.io/services/educational_program_design)
 
 [External evaluation and reporting](https://geoling.github.io/services/evaluation_reporting)
 
