@@ -53,5 +53,9 @@ My Favorite Foundational Systems Thinking Resources
 
 [On the Diffusion of Innovations: How New Ideas Spread](https://leif.me/on-the-diffusion-of-innovations-how-new-ideas-spread/) by Leif Singer
 
-
+Previous Systems Thinking for Systems Change Experience
+======
+- 2024 Strategy Director for [NSF ALL-SPICE INCLUDES Alliance](https://www.nsfspicealliance.org/); Build capacity for systems change through training and facilitated conversations; Develop and implement strategic plans to enhance data science capacity in the Hawai'i-Pacific region; Lead and manage cross-functional teams to achieve project milestones and objectives; Foster partnerships with educational institutions, government agencies, and non-profits; Monitor and evaluate program outcomes, ensuring continuous improvement and alignment with strategic goals
+- 2022-2024 Senior Sustainability Analyst for [United Nations CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); Collaborate with educational institutions, government agencies, and non-profits to advance sustainability goals; Develop and implement programs and projects that promote environmental sustainability and resilience; Monitor and evaluate the impact of sustainability initiatives, ensuring continuous improvement
+- 2020-2024 Strategy Consultant at Kamehameha Schools; I used my systems thinking and coaching skills to support future readiness for the entire enterprise, which is both a Native Hawaiian land trust and a preK-12 educational system; Conduct research and analyze data to inform strategy development and decision-making; Collaborate with internal and external stakeholders to gather insights and feedback; Provide strategic recommendations to leadership and contribute to long-term planning; Design thinking, scenario-building, and strategic planning facilitation.
 
