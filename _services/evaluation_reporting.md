@@ -21,6 +21,8 @@ What I provide
 
 - Clear communication throughout the project
 
+- External evaluation services
+
 What you provide
 ======
 - Access to project collateral and personnel as needed
@@ -41,3 +43,18 @@ Understanding of new and established norms for evaluation of educational program
 
 Background in education at classroom, curriculum development, and strategy levels
  
+Previous Evaluation Experience
+======
+- 2024 External evaluation consultant for National Geographic grant for [Classroom2Community Environmental Action Toolkit](https://explorers.nationalgeographic.org/directory/kelly-h-albus) project at Texas Water Resources Institute
+- 2024 External evaluation consultant for [NSF S-STEM: Scholarships to Support Students at Hawaiian and Pacific Island Institutions of Higher Education](https://s-stem.pbrc.hawaii.edu/)
+- 2018-2022 Internal evaluation specialist for Kamehameha Schools (preK-12 formal and informal education programs) with Hoʻolaukoa Educational Research & Development Team (2018-2020) and Strategy Intelligence and Learning Team (2020-2022)
+
+Previous Education Experience
+======
+- 2022-2024 Developed broadly accessible UNITAR/NSF certificate courses for adults: GIS for Sustainability & Resilience, Foundations & Advanced
+- 2022-2024 Managed creation and implementation of 6 sustainability-related UNITAR/NSF certificate courses for adults for the UN CIFAL Honolulu at Chaminade University of Honolulu
+- 2017-2017 Redesigned University of Hawaiʻi at Mānoa Linguistics courses; LING 101: Introduction to Language and LING 150C: Language in Hawaiʻi and the Pacific to incorporate student's personal experiences and WikiEd citizen archivist projects
+- 2012-2013 Counselors' secretary and on-site substitute teacher at Hutchinson Middle School
+- 2012 Instructor for Texas Tech University Upward Bound summer college preparation program
+- 2009-2011 Instructed Texas Tech University Department of Geosciences courses; GEOG 1300: Geography for Educators; GEOG 1401: Introduction to Physical Geography; GEOG 2351: Regional Geography of the World
+- 2004-2008 Outdoor Recreation Guide and Instructor at Texas Tech University Outdoor Pursuits Center
