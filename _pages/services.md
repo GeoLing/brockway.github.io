@@ -29,8 +29,6 @@ Language equity and multilingual contexts
 
 [External evaluation and reporting](https://geoling.github.io/services/evaluation_reporting)
 
-[Mapping your data landscape](https://geoling.github.io/services/datalandscape)
-
 [Strategic data planning](https://geoling.github.io/services/strategicdataplanning)
 
 [Data storytelling support](https://geoling.github.io/services/datastorytelling)
