@@ -40,4 +40,12 @@ Curriculum development for impactful and easy delivery
 Identifying and building capacity for appropriate instructional methods
 
 Planning for evaluation, iterative improvement, sustainability, and scaling
+
+Previous Educational Program Design
+======
+- 2022-2024 Developed broadly accessible UNITAR/NSF certificate courses for adults: GIS for Sustainability & Resilience, Foundations & Advanced
+- 2022-2024 Managed creation and implementation of 6 sustainability-related UNITAR/NSF certificate courses for adults for the UN CIFAL Honolulu at Chaminade University of Honolulu
+- 2017-2017 Redesigned University of Hawaiʻi at Mānoa Linguistics courses; LING 101: Introduction to Language and LING 150C: Language in Hawaiʻi and the Pacific to incorporate student's personal experiences and WikiEd citizen archivist projects
+- 2012-2013 Counselors' secretary and on-site substitute teacher at Hutchinson Middle School
+- 2004-2008 Created and managed outdoor skills workshop series, designed and instructed multiple workshops on outdoor cooking, knot skills, and backpack packing at Texas Tech University Outdoor Pursuits Center
  
